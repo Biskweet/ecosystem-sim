@@ -1,2 +1,2 @@
 # Ecosystem simulation
-University project aiming to roughly simulate the behaving of an ecosystem with preys and predators.
+University project aiming to roughly simulate the behavior of an ecosystem with preys and predators.
